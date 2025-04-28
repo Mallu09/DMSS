@@ -1,2 +1,2 @@
 # DMSS
-ok iam come in cs lab
+ok iam come in cs labs
